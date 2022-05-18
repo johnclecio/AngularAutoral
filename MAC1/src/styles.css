@@ -1,4 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html, body { height: 100%;  }
+body {
+   margin: 0;
+   font-family: Roboto, "Helvetica Neue", sans-serif;
+   background-image: url("https://www.unit.br/hs-fs/hubfs/biz-topo-page.jpg?width=1700&name=biz-topo-page.jpg");
+   background-repeat: no-repeat;
+   background-size: auto;
+   background-position: center center;
+}
